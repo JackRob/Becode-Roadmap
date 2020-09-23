@@ -27,7 +27,8 @@ This repo is use to show the roadmap and all my path at Becode during my formati
     - [DataVisualisation](https://github.com/JackRob/B-2-js-datavisualisation-challenge)
 
 3. ## The Mountain :cloud:
-    3.1 [PHP/MySQL/POO](https://github.com/JackRob/B-3-PHP-SQL)  
+    3.1 [PHP/MySQL/POO](https://github.com/JackRob/B-3-PHP-SQL) 
+    3.2 [Wordpress](https://github.com/Becode-Formation/B3-Wordpress) 
     ### Challenge : 
     - [Hackers Poulette](https://github.com/JackRob/hackers-poulette)
     
