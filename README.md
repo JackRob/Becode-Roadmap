@@ -32,7 +32,8 @@ This repo is use to show the roadmap and all my path at Becode during my formati
     3.3 [NodeJS](https://github.com/Becode-Formation/B-3-NodeJs)  
     3.4 [ReactJs](https://github.com/Becode-Formation/B-3-ReactJs)
     ### Challenge : 
-    - [Hackers Poulette](https://github.com/JackRob/hackers-poulette)
+    - [Hackers Poulette](https://github.com/JackRob/hackers-poulette)  
+    - [WoodStock](https://github.com/Becode-Formation/B-3-WoodStock)
     
   ______
   ## Becode  
